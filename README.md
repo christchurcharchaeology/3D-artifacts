@@ -1,2 +1,2 @@
-# 3D-artifacts
-Repository of digitally scanned artifacts
+# 3D-artefacts
+Repository of digitally scanned artefacts
